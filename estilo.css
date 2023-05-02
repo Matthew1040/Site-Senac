@@ -84,3 +84,9 @@ font-weight: lighter;
     .cards:hover{
         transform: scale(1.3);
     }
+
+    .carousel-control-prev, .carousel-control-next{
+
+        background: none;
+        border:none;
+    }
